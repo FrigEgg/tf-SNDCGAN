@@ -66,3 +66,4 @@ This also made the graph become very large over time leading to gigantic event f
 GPU utilization is now around 85+%
 
 - No Fréchet Inception Distance (https://arxiv.org/abs/1706.08500) evaluation yet.
+mygithub
